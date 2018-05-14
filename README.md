@@ -13,8 +13,8 @@ yarn install
 
 标题做成下拉的形式
 
-![ziti](imgs/ziti.png "ziti")
+![header](imgs/header.png "header")
 
 插入链接以弹出的形式
 
-![ziti](imgs/link.png "link")
+![link](imgs/link.png "link")

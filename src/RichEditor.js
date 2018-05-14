@@ -73,7 +73,7 @@ export default class RichEditorExample extends Component {
 
     consoleLog = () => {
         const content = this.state.editorState.getCurrentContent();
-        // console.log(convertToRaw(content));
+        console.log(convertToRaw(content));
     }
 
     render() {

@@ -232,7 +232,7 @@ class MenuControl extends Component{
             {
                 label: 'H',
                 type: 'select',
-                toolTip: '字体',
+                toolTip: '标题',
                 options: [
                     {label: 'H1', style: 'header-one'},
                     {label: 'H2', style: 'header-two'},

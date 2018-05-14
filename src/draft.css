@@ -53,9 +53,17 @@
 .RichEditor-styleButton {
     color: #999;
     cursor: pointer;
-    margin-right: 16px;
-    padding: 2px 0;
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
     display: inline-block;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.RichEditor-styleButton:hover{
+    background: rgba(0, 0, 0, 0.1);
+    /*color: #eeeeee;*/
 }
 
 .RichEditor-activeButton {
